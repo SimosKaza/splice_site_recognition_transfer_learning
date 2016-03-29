@@ -1,0 +1,16 @@
+# DATA
+DataFolder = /home/simos/workspace/Master_thesis/Data/common/data/
+pathFinalResults =  /home/simos/workspace/Master_thesis/Data/common/FinalResults.csv
+
+
+# CRF
+pathSampling = /home/simos/workspace/Master_thesis/Data/CRF/sampling/
+pathWapiti = /home/simos/workspace/Master_thesis/Data/CRF/wapiti/
+pathCrfResult = /home/simos/workspace/Master_thesis/Data/CRF/wapiti/result.txt
+pathRunWapiti = /home/simos/workspace/Master_thesis/Data/CRF/wapiti/RunWapiti.sh
+
+# N-Gram
+pathBaseDir = /home/simos/workspace/Master_thesis/Data/ngram/
+pathForRandom_kFold = /home/simos/workspace/Master_thesis/Data/ngram/Random_kFold/
+
+

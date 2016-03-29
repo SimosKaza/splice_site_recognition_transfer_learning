@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-oracle"/>
+	<classpathentry kind="lib" path="/home/simos/Package/JInsect.jar" sourcepath="/home/simos/Package/jinsect-code-29-trunk.zip"/>
+	<classpathentry kind="lib" path="/home/simos/Package/OpenJGraph.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/bj4.1.0/biojava-core/target/biojava-core-4.1.0.jar" sourcepath="/home/simos/Package/bj4.1.0/biojava-core/target/biojava-core-4.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/bj4.1.0/biojava-alignment/target/biojava-alignment-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/bj4.1.0/biojava-genome/target/biojava-genome-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/bj4.1.0/biojava-phylo/target/biojava-phylo-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/biojava-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/jul-to-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/jcl-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/log4j-over-slf4j-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/slf4j-jdk14-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/slf4j-simple-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/slf4j-1.7.12/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/jfreechart-1.0.19 (2)/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/jfreechart-1.0.19 (2)/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/javaml-0.1.5/javaml-0.1.5.jar" sourcepath="/home/simos/Package/javaml-0.1.5/javaml-0.1.5-src.zip"/>
+	<classpathentry kind="lib" path="/home/simos/Package/weka-3-7-13/weka.jar" sourcepath="/home/simos/Package/weka-3-7-13/weka-src.jar"/>
+	<classpathentry kind="lib" path="/home/simos/wekafiles/packages/LibSVM/LibSVM.jar"/>
+	<classpathentry kind="lib" path="/home/simos/wekafiles/packages/LibSVM/lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="/home/simos/Package/mallet-2.0.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
